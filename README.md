@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nadew-jayaweera1
-- 👀 I’m interested in Ethical Hacking and Bug Bounty hunting
-- 🌱 I’m currently learning cyber decurity degree at NSBM
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Ethical Hacking and Bug Bounty Hunting
+- 🌱 I’m currently learning cybersecurity degree
+- 🤝 I’m looking to collaborate on Ethical Hacking and Bug Bounty Hunting
 - 📫 How to reach me
     - [LinkedIn](https://linkedin.com/in/nadew-jayaweera)
     - [Twitter](https://x.com/Nadew_Jayaweera)
